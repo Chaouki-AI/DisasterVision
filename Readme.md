@@ -58,7 +58,7 @@ DisasterVision/
            └── labels/
 ```
 
-Update the dataset paths in the [notebook]('DisasterVision.ipynb') as needed.
+Update the dataset paths in the [notebook](DisasterVision.ipynb) as needed.
 
 
 ## 🚀 Training & Evaluation <a name="training-evaluation"></a>
