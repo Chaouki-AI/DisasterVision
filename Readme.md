@@ -35,7 +35,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/Chaouki-AI/DisasterVision
 cd DisasterVision
-chmod +x ./setup/installEnv.sh
+chmod +x ./installEnv.sh
 ./installEnv.sh
 conda activate DisasterVision
 ```
